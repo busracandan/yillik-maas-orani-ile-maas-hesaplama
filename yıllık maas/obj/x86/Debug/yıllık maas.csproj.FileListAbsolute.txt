@@ -1,0 +1,7 @@
+c:\users\asus\documents\visual studio 2010\Projects\yıllık maas\yıllık maas\obj\x86\Debug\yıllık_maas.Form1.resources
+c:\users\asus\documents\visual studio 2010\Projects\yıllık maas\yıllık maas\obj\x86\Debug\yıllık_maas.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2010\Projects\yıllık maas\yıllık maas\obj\x86\Debug\yıllık maas.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2010\Projects\yıllık maas\yıllık maas\bin\Debug\yıllık maas.exe
+c:\users\asus\documents\visual studio 2010\Projects\yıllık maas\yıllık maas\bin\Debug\yıllık maas.pdb
+c:\users\asus\documents\visual studio 2010\Projects\yıllık maas\yıllık maas\obj\x86\Debug\yıllık maas.exe
+c:\users\asus\documents\visual studio 2010\Projects\yıllık maas\yıllık maas\obj\x86\Debug\yıllık maas.pdb
